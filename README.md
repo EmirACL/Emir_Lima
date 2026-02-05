@@ -1,2 +1,4 @@
 # Emir_Lima
-Ex-aluno do IFPE, curso de TADS. Comedor de cuscuz com ovo e bebedor de café Santa Clara e apreciador de cerveja...
+Ex-aluno Farec
+Ex-aluno IFPE
+Ex-aluno UFPE
